@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ismael-mendoza
-- 👀 I’m interested in applications of bayesian statistics and machine learning to cosmology.
+- 👀 I’m interested in applications of bayesian statistics and machine learning to cosmology, in particular for weak lensing.
 - 📖 If you would like to learn more about my work or contact me, please visit my [website](https://ismael-mendoza.github.io/).
 
 <!---
